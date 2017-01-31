@@ -1,0 +1,14 @@
+C:\Users\neo\AppData\Local\Temporary Projects\DrawExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\neo\AppData\Local\Temporary Projects\DrawExample\obj\x86\Debug\DrawExample.Form1.resources
+C:\Users\neo\AppData\Local\Temporary Projects\DrawExample\obj\x86\Debug\DrawExample.Properties.Resources.resources
+C:\Users\neo\AppData\Local\Temporary Projects\DrawExample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\neo\AppData\Local\Temporary Projects\DrawExample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\neo\documents\visual studio 2010\Projects\DrawExample\DrawExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\neo\documents\visual studio 2010\Projects\DrawExample\DrawExample\obj\x86\Debug\DrawExample.Form1.resources
+C:\Users\neo\documents\visual studio 2010\Projects\DrawExample\DrawExample\obj\x86\Debug\DrawExample.Properties.Resources.resources
+C:\Users\neo\documents\visual studio 2010\Projects\DrawExample\DrawExample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\neo\documents\visual studio 2010\Projects\DrawExample\DrawExample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\neo\documents\visual studio 2010\Projects\DrawExample\DrawExample\bin\Debug\DrawExample.exe
+C:\Users\neo\documents\visual studio 2010\Projects\DrawExample\DrawExample\bin\Debug\DrawExample.pdb
+C:\Users\neo\documents\visual studio 2010\Projects\DrawExample\DrawExample\obj\x86\Debug\DrawExample.exe
+C:\Users\neo\documents\visual studio 2010\Projects\DrawExample\DrawExample\obj\x86\Debug\DrawExample.pdb
